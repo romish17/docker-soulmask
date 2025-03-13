@@ -22,7 +22,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5
         with:
-          images: kagurazakanyaa/soulmask
+          images: romish17/soulmask
 
       - name: Build and push
         id: docker_build
