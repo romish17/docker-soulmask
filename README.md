@@ -1,13 +1,8 @@
-# soulmask-docker
-
-[![Check Update](https://github.com/KagurazakaNyaa/soulmask-docker/actions/workflows/update.yml/badge.svg)](https://github.com/KagurazakaNyaa/soulmask-docker/actions/workflows/update.yml)
-[![Build Docker Image](https://github.com/KagurazakaNyaa/soulmask-docker/actions/workflows/build.yml/badge.svg)](https://github.com/KagurazakaNyaa/soulmask-docker/actions/workflows/build.yml)
-
-![Docker Pulls](https://img.shields.io/docker/pulls/kagurazakanyaa/soulmask)
-![Docker Stars](https://img.shields.io/docker/stars/kagurazakanyaa/soulmask)
-![Image Size](https://img.shields.io/docker/image-size/kagurazakanyaa/soulmask/latest)
+# docker-soulmask
 
 Soulmask dedicated server with docker
+
+Source : https://github.com/KagurazakaNyaa/soulmask-docker/
 
 ## Environments
 
